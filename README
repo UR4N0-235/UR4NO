@@ -1,4 +1,4 @@
-<!--
+
  * UR4NO - a robot by ( Matheus Fernandes )
  *
  * a seguir, pessouas que ajudaram muito no desenvolvimento desse robozinho
@@ -14,4 +14,3 @@
  * Usando pacotes personalizados de {
  *		Nat, David Alves - para as funcoes de desenho do debugger - package ur4n0.graph.BHDrawer // ia implementar mas no deu tempo aaa
  * }
--->
